@@ -21,16 +21,17 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🆕 [kian_v2ray](https://github.com/kian-irani/kian_v2ray)
-سازندهٔ کانفیگ V2Ray روی **سرور خودت** — **VLESS Reality + WARP**.
-فقط آی‌پی سرور را می‌زنی، یک دستور می‌گیری، کانفیگ آماده با QR تحویل می‌گیری.
+### ⭐ [kian_v2ray](https://github.com/kian-irani/kian_v2ray)
+سازندهٔ کانفیگ V2Ray روی **سرور خودت** — **VLESS Reality + WARP + Shadowsocks**.
+فقط آی‌پی سرور را می‌زنی، یک دستور می‌گیری، کانفیگ آماده با QR و **لینک Subscription** تحویل می‌گیری.
 
 - 🔐 کلیدها در مرورگر خودت ساخته می‌شوند
-- 🧷 نصب تک‌دستوریِ مقاوم به قطع SSH
-- 🌐 چند SNI/پورت خودکار + حالت بدون SNI
-- 👥 مدیریت کاربر بدون نیاز به دانش فنی
+- 🧷 نصب تک‌دستوریِ مقاوم به قطع SSH + نصب مجدد امن
+- 🔗 لینک Subscription تک‌نفره (همهٔ کانفیگ‌ها خودکار و به‌روز)
+- 🩹 WARP پایدار (WireGuard/MASQUE + بازگشت خودکار) + بهینه‌سازی سرعت BBR
+- 👥 مدیریت کاربر/حجم + خودتشخیصی مشکلات
 
-**[▶ صفحهٔ زنده](https://kian-irani.github.io/kian_v2ray/)**
+**[▶ صفحهٔ زنده](https://kian-irani.github.io/kian_v2ray/)** · فاز ۲ (Subscription) فعال
 
 </td>
 <td width="50%" valign="top">
