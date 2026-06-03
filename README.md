@@ -1,59 +1,97 @@
 <div align="center">
 
-### Hi there 👋 I'm **Kian Irani**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=76B900&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Kian+Irani+%F0%9F%91%8B;Full-stack+%26+Infrastructure+Developer;Anti-censorship+%C2%B7+Automation+%C2%B7+Telegram+Bots" alt="intro" />
 
-**Full-stack & infra developer** — automation, networking, Telegram bots, and self-hosted tooling.
-سازندهٔ ابزارهای متن‌باز برای دور زدن فیلترینگ، اتوماسیون سرور، و ربات‌های تلگرام.
+<p>
+سازندهٔ ابزارهای متن‌باز برای <b>دور زدن فیلترینگ</b>، <b>اتوماسیون سرور</b>، و <b>ربات‌های تلگرام</b>.<br>
+I build free, open-source tools that just work — VPN setup, server automation, and bots.
+</p>
 
-<p align="center">
-  <a href="https://t.me/kian_irani_cdn_f"><img src="https://img.shields.io/badge/-Telegram%20Channel-0088cc?style=flat&logo=telegram&logoColor=white"></a>
-  <a href="https://t.me/Kian_irani_t"><img src="https://img.shields.io/badge/-Support-0088cc?style=flat&logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/kian-irani"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+<p>
+  <a href="https://t.me/kian_irani_cdn_f"><img src="https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://t.me/Kian_irani_t"><img src="https://img.shields.io/badge/Support-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/kian-irani"><img src="https://img.shields.io/github/followers/kian-irani?style=for-the-badge&logo=github&color=76B900&labelColor=0B0F14&label=Follow"></a>
+  <img src="https://komarev.com/ghpvc/?username=kian-irani&style=for-the-badge&color=76B900&labelColor=0B0F14&label=Views">
 </p>
 
 </div>
 
 ---
+
+<div align="center">
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white">
-  <img src="https://img.shields.io/badge/-Qt%2FPySide6-41CD52?style=flat&logo=qt&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-Caddy-1F88C0?style=flat&logo=caddy&logoColor=white">
-</p>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kian-irani&show_icons=true&theme=github_dark&hide_border=true&icon_color=76B900&title_color=76B900" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kian-irani&layout=compact&theme=github_dark&hide_border=true&title_color=76B900" alt="langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kian-irani&theme=github-dark-blue&hide_border=true&ring=76B900&fire=76B900&currStreakLabel=76B900" alt="streak" />
-</div>
-
-### 🚀 Featured Project
-
-<div align="center">
-
-[![KIAN V2Ray](https://github-readme-stats.vercel.app/api/pin/?username=kian-irani&repo=kian_v2ray&theme=github_dark&hide_border=true&title_color=76B900&icon_color=76B900)](https://github.com/kian-irani/kian_v2ray)
-
-**⚡ [KIAN V2Ray](https://github.com/kian-irani/kian_v2ray)** — نصب و مدیریت خودکار سرور V2Ray
-(VLESS Reality · WARP · TLS/Caddy · لینک Subscription) + نرم‌افزار دسکتاپ **Kv2m** با رابط Qt دو-زبانه.
-
-[🌐 صفحهٔ تعاملی](https://kian-irani.github.io/kian_v2ray/) · [💻 دانلود Kv2m](https://github.com/kian-irani/kian_v2ray/releases/latest)
+<img src="https://skillicons.dev/icons?i=python,bash,linux,docker,cloudflare,js,html,css,nginx,git,github,vscode,md,powershell&perline=14" alt="skills" />
 
 </div>
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ [kian_v2ray](https://github.com/kian-irani/kian_v2ray)
+![stars](https://img.shields.io/github/stars/kian-irani/kian_v2ray?style=flat&color=e3b341&labelColor=0B0F14)
+نصب و مدیریت خودکار سرور V2Ray (VLESS Reality · WARP · TLS/Caddy · Subscription) + نرم‌افزار دسکتاپ **Kv2m** با رابط Qt دو-زبانه.
+<br>[🌐 صفحهٔ تعاملی](https://kian-irani.github.io/kian_v2ray/) · [💻 دانلود](https://github.com/kian-irani/kian_v2ray/releases/latest)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ [mhrv-setup-full-tunell](https://github.com/kian-irani/mhrv-setup-full-tunell)
+![stars](https://img.shields.io/github/stars/kian-irani/mhrv-setup-full-tunell?style=flat&color=e3b341&labelColor=0B0F14)
+راهنمای تعاملی نصب MHRV Full-Tunnel — ضدسانسور، رایگان، بدون root، غیرقابل‌تشخیص. دو-زبانه (EN/FA).
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 [zyrln-setup](https://github.com/kian-irani/zyrln-setup)
+![stars](https://img.shields.io/github/stars/kian-irani/zyrln-setup?style=flat&color=e3b341&labelColor=0B0F14)
+ساخت VPN شخصی رایگان با Cloudflare Workers + Google Apps Script — رابط تعاملی + ربات تلگرام.
+
+</td>
+<td width="50%" valign="top">
+
+#### 📡 [Kian-CDN-Netlify](https://github.com/kian-irani/Kian-CDN-Netlify)
+![stars](https://img.shields.io/github/stars/kian-irani/Kian-CDN-Netlify?style=flat&color=e3b341&labelColor=0B0F14)
+رله CDN با VLESS+XHTTP روی Netlify — تونل رایگان CDN برای ضدسانسور.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [Jarvis-android](https://github.com/kian-irani/Jarvis-android)
+![stars](https://img.shields.io/github/stars/kian-irani/Jarvis-android?style=flat&color=e3b341&labelColor=0B0F14)
+دستیار هوش مصنوعی توزیع‌شده برای اندروید — لانچر HUD به سبک Iron Man با backendِ LLM.
+
+</td>
+<td width="50%" valign="top">
+
+#### 💻 Kv2m Desktop
+![release](https://img.shields.io/github/v/release/kian-irani/kian_v2ray?style=flat&color=76B900&labelColor=0B0F14&label=v)
+اپ ویندوزی مدیریت سرور با **PySide6/Qt** (سبک Termius + سبز NVIDIA)، دو-زبانه. [دانلود](https://github.com/kian-irani/kian_v2ray/releases/latest)
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
+
+### 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kian-irani&theme=react-dark&bg_color=0B0F14&color=76B900&line=76B900&point=ffffff&hide_border=true&area=true" alt="activity graph" width="98%" />
+
+<br>
+
 <i>Made with ❤️ — open-source, free, and built to just work.</i>
+
 </div>
